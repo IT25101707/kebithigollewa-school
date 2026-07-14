@@ -195,4 +195,4 @@ This is normal — Google doesn't know your site exists yet. New sites take **da
 - Serve over HTTPS (Vercel/Railway do this automatically).
 - Add rate limiting (e.g. `express-rate-limit`) to `/api/auth/login`.
 - Back up the MySQL database regularly.
-Updated deployment
+Updated-deployment
